@@ -23,13 +23,13 @@ O repositório está organizado de forma que cada arquivo corresponda exatamente
 * **`exe9.c`**: Lê um vetor de 20 posições e remove os elementos repetidos.
 * **`exe10.c`**: Lê 12 números e divide os elementos em dois vetores (um contendo números pares e outro ímpares).
 * **`exe11.c`**: Lê dois vetores de 10 posições e verifica se eles são iguais.
-* **`exe12.c`**: Lê um vetor e rotaciona os elementos uma posição para a direita.
+* **`exe13.c`**: Lê um vetor e rotaciona os elementos uma posição para a direita.
 
 ### Manipulação de Strings (Char Arrays)
-* **`exe13.c`**: Lê uma string e mostra a frase invertida.
-* **`exe14.c`**: Lê duas palavras e verifica se elas são iguais.
-* **`exe15.c`**: Lê uma frase e substitui todas as letras “a” por “@”.
-* **`exe16.c`**: Lê uma palavra e verifica se ela é um palíndromo (tratando espaços em branco).
-* **`exe17.c`**: Lê uma frase e conta a quantidade de vogais, consoantes, números e caracteres especiais.
-* **`exe18.c`**: Lê uma string e remove todos os espaços em branco.
-* **`exe19.c`**: Lê um nome completo e mostra apenas o primeiro nome.
+* **`exe14.c`**: Lê uma string e mostra a frase invertida.
+* **`exe15.c`**: Lê duas palavras e verifica se elas são iguais.
+* **`exe16.c`**: Lê uma frase e substitui todas as letras “a” por “@”.
+* **`exe17.c`**: Lê uma palavra e verifica se ela é um palíndromo (tratando espaços em branco).
+* **`exe18.c`**: Lê uma frase e conta a quantidade de vogais, consoantes, números e caracteres especiais.
+* **`exe19.c`**: Lê uma string e remove todos os espaços em branco.
+* **`exe20.c`**: Lê um nome completo e mostra apenas o primeiro nome.
